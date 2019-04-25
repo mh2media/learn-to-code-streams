@@ -17,10 +17,21 @@ namespace learn_to_code_streams
             Console.ForegroundColor = ConsoleColor.White;
             string rawText = Console.ReadLine();
             int.TryParse(rawText, out int number);
-            /*  above line is same as: int unsafeInt = int.Parse(rawText)
-            The code above is a way to make sure entering a string or number other than integer doesn't break the program at runtime. */
+            /*  
+            Above line is same as: int unsafeInt = int.Parse(rawText)
+            The code above is a way to make sure entering a string or number other than integer doesn't break the program at runtime. 
+            */
+            
             Console.ForegroundColor = ConsoleColor.Red;
+            for (int i = 0; i < number; i++)
+            {
+                Console.WriteLine($"You are awesome {name}");
+            }
+
+            Console.WriteLine("\n");
             Console.WriteLine($"You chose {number}.");
+            int betterNumber = number +1;
+            Console.WriteLine($"I like the number {betterNumber} better. It's larger.");
             Console.ForegroundColor = ConsoleColor.White;
 
         }
