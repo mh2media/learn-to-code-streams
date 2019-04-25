@@ -1,0 +1,10 @@
+G:\!Repos\learn-to-code-streams\bin\BPC\Debug\netcoreapp2.0\learn-to-code-streams.deps.json
+G:\!Repos\learn-to-code-streams\bin\BPC\Debug\netcoreapp2.0\learn-to-code-streams.runtimeconfig.json
+G:\!Repos\learn-to-code-streams\bin\BPC\Debug\netcoreapp2.0\learn-to-code-streams.runtimeconfig.dev.json
+G:\!Repos\learn-to-code-streams\bin\BPC\Debug\netcoreapp2.0\learn-to-code-streams.dll
+G:\!Repos\learn-to-code-streams\bin\BPC\Debug\netcoreapp2.0\learn-to-code-streams.pdb
+G:\!Repos\learn-to-code-streams\obj\BPC\Debug\netcoreapp2.0\learn-to-code-streams.csproj.CoreCompileInputs.cache
+G:\!Repos\learn-to-code-streams\obj\BPC\Debug\netcoreapp2.0\learn-to-code-streams.AssemblyInfoInputs.cache
+G:\!Repos\learn-to-code-streams\obj\BPC\Debug\netcoreapp2.0\learn-to-code-streams.AssemblyInfo.cs
+G:\!Repos\learn-to-code-streams\obj\BPC\Debug\netcoreapp2.0\learn-to-code-streams.dll
+G:\!Repos\learn-to-code-streams\obj\BPC\Debug\netcoreapp2.0\learn-to-code-streams.pdb
