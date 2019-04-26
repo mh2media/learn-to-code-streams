@@ -1,0 +1,11 @@
+H:\!Repos\learn-to-code-streams\Lesson 2\bin\Debug\netcoreapp2.2\Lesson 2.deps.json
+H:\!Repos\learn-to-code-streams\Lesson 2\bin\Debug\netcoreapp2.2\Lesson 2.runtimeconfig.json
+H:\!Repos\learn-to-code-streams\Lesson 2\bin\Debug\netcoreapp2.2\Lesson 2.runtimeconfig.dev.json
+H:\!Repos\learn-to-code-streams\Lesson 2\bin\Debug\netcoreapp2.2\Lesson 2.dll
+H:\!Repos\learn-to-code-streams\Lesson 2\bin\Debug\netcoreapp2.2\Lesson 2.pdb
+H:\!Repos\learn-to-code-streams\Lesson 2\obj\Debug\netcoreapp2.2\Lesson 2.csprojAssemblyReference.cache
+H:\!Repos\learn-to-code-streams\Lesson 2\obj\Debug\netcoreapp2.2\Lesson 2.csproj.CoreCompileInputs.cache
+H:\!Repos\learn-to-code-streams\Lesson 2\obj\Debug\netcoreapp2.2\Lesson 2.AssemblyInfoInputs.cache
+H:\!Repos\learn-to-code-streams\Lesson 2\obj\Debug\netcoreapp2.2\Lesson 2.AssemblyInfo.cs
+H:\!Repos\learn-to-code-streams\Lesson 2\obj\Debug\netcoreapp2.2\Lesson 2.dll
+H:\!Repos\learn-to-code-streams\Lesson 2\obj\Debug\netcoreapp2.2\Lesson 2.pdb
