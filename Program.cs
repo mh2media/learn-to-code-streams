@@ -6,34 +6,29 @@ namespace learn_to_code_streams
     {
         static void Main(string[] args)
         {
-             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Enter your name:");
-            Console.ForegroundColor = ConsoleColor.White;
-            string name = Console.ReadLine();
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine($"Hello {name}!");
-            Console.WriteLine($"Hope you're having a great day. I like the name {name}.");
-            Console.WriteLine($"So, {name}, what's your favorite number?");
-            Console.ForegroundColor = ConsoleColor.White;
-            string rawText = Console.ReadLine();
-            int.TryParse(rawText, out int number);
-            /*  
-            Above line is same as: int unsafeInt = int.Parse(rawText)
-            The code above is a way to make sure entering a string or number other than integer doesn't break the program at runtime. 
-            */
-            
-            Console.ForegroundColor = ConsoleColor.Red;
-            for (int i = 0; i < number; i++)
-            {
-                Console.WriteLine($"You are awesome {name}");
-            }
+            Random rand = new Random();
+            // Use underscore to replace comma in numbers
+            int number = rand.Next(1, 1_000);
+            Console.WriteLine("I've chosen a number between 1 and 1,000. Can you guess it?");
 
-            Console.WriteLine("\n");
-            Console.WriteLine($"You chose {number}.");
-            int betterNumber = number +1;
-            Console.WriteLine($"I like the number {betterNumber} better. It's larger.");
-            Console.ForegroundColor = ConsoleColor.White;
+            int guess;
+                do
+                {
+                   Console.WriteLine("What's your guess?");
+                string guessString = Console.ReadLine();
+                int.TryParse(guessString, out guess);
+                if (guess < number)
+                {
+                    Console.WriteLine("Too low, guess again.");
+                }
 
+                if (guess > number)
+                {
+                    Console.WriteLine("Too high, guess again.");
+                }
+
+                } while (guess != number);
+           Console.WriteLine("You got it!");
         }
     }
 }

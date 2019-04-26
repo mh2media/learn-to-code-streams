@@ -1,0 +1,11 @@
+H:\!Repos\learn-to-code-streams\bin\Debug\netcoreapp2.2\learn-to-code-streams.deps.json
+H:\!Repos\learn-to-code-streams\bin\Debug\netcoreapp2.2\learn-to-code-streams.runtimeconfig.json
+H:\!Repos\learn-to-code-streams\bin\Debug\netcoreapp2.2\learn-to-code-streams.runtimeconfig.dev.json
+H:\!Repos\learn-to-code-streams\bin\Debug\netcoreapp2.2\learn-to-code-streams.dll
+H:\!Repos\learn-to-code-streams\bin\Debug\netcoreapp2.2\learn-to-code-streams.pdb
+H:\!Repos\learn-to-code-streams\obj\Debug\netcoreapp2.2\learn-to-code-streams.csprojAssemblyReference.cache
+H:\!Repos\learn-to-code-streams\obj\Debug\netcoreapp2.2\learn-to-code-streams.csproj.CoreCompileInputs.cache
+H:\!Repos\learn-to-code-streams\obj\Debug\netcoreapp2.2\learn-to-code-streams.AssemblyInfoInputs.cache
+H:\!Repos\learn-to-code-streams\obj\Debug\netcoreapp2.2\learn-to-code-streams.AssemblyInfo.cs
+H:\!Repos\learn-to-code-streams\obj\Debug\netcoreapp2.2\learn-to-code-streams.dll
+H:\!Repos\learn-to-code-streams\obj\Debug\netcoreapp2.2\learn-to-code-streams.pdb
