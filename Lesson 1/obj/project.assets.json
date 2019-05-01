@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\!Repos\\learn-to-code-streams\\learn-to-code-streams.csproj",
+      "projectUniqueName": "h:\\!Repos\\learn-to-code-streams\\Lesson 1\\learn-to-code-streams.csproj",
       "projectName": "learn-to-code-streams",
-      "projectPath": "H:\\!Repos\\learn-to-code-streams\\learn-to-code-streams.csproj",
+      "projectPath": "h:\\!Repos\\learn-to-code-streams\\Lesson 1\\learn-to-code-streams.csproj",
       "packagesPath": "C:\\Users\\mhenry\\.nuget\\packages\\",
-      "outputPath": "H:\\!Repos\\learn-to-code-streams\\obj\\",
+      "outputPath": "h:\\!Repos\\learn-to-code-streams\\Lesson 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

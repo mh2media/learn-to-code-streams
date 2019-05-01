@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "h:\\!Repos\\learn-to-code-streams\\Lesson 1\\learn-to-code-streams.csproj": {}
+    "H:\\!Repos\\learn-to-code-streams\\Lesson 4\\Lesson 4.csproj": {}
   },
   "projects": {
-    "h:\\!Repos\\learn-to-code-streams\\Lesson 1\\learn-to-code-streams.csproj": {
+    "H:\\!Repos\\learn-to-code-streams\\Lesson 4\\Lesson 4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "h:\\!Repos\\learn-to-code-streams\\Lesson 1\\learn-to-code-streams.csproj",
-        "projectName": "learn-to-code-streams",
-        "projectPath": "h:\\!Repos\\learn-to-code-streams\\Lesson 1\\learn-to-code-streams.csproj",
+        "projectUniqueName": "H:\\!Repos\\learn-to-code-streams\\Lesson 4\\Lesson 4.csproj",
+        "projectName": "Lesson 4",
+        "projectPath": "H:\\!Repos\\learn-to-code-streams\\Lesson 4\\Lesson 4.csproj",
         "packagesPath": "C:\\Users\\mhenry\\.nuget\\packages\\",
-        "outputPath": "h:\\!Repos\\learn-to-code-streams\\Lesson 1\\obj\\",
+        "outputPath": "H:\\!Repos\\learn-to-code-streams\\Lesson 4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,17 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\!Repos\\learn-to-code-streams\\Lesson 2\\Lesson 2.csproj": {}
+    "h:\\!Repos\\learn-to-code-streams\\Lesson 2\\Lesson 2.csproj": {}
   },
   "projects": {
-    "H:\\!Repos\\learn-to-code-streams\\Lesson 2\\Lesson 2.csproj": {
+    "h:\\!Repos\\learn-to-code-streams\\Lesson 2\\Lesson 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\!Repos\\learn-to-code-streams\\Lesson 2\\Lesson 2.csproj",
+        "projectUniqueName": "h:\\!Repos\\learn-to-code-streams\\Lesson 2\\Lesson 2.csproj",
         "projectName": "Lesson 2",
-        "projectPath": "H:\\!Repos\\learn-to-code-streams\\Lesson 2\\Lesson 2.csproj",
+        "projectPath": "h:\\!Repos\\learn-to-code-streams\\Lesson 2\\Lesson 2.csproj",
         "packagesPath": "C:\\Users\\mhenry\\.nuget\\packages\\",
-        "outputPath": "H:\\!Repos\\learn-to-code-streams\\Lesson 2\\obj\\",
+        "outputPath": "h:\\!Repos\\learn-to-code-streams\\Lesson 2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

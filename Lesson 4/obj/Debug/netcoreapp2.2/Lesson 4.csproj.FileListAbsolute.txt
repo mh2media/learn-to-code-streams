@@ -1,0 +1,30 @@
+H:\!Repos\learn-to-code-streams\Lesson 4\bin\Debug\netcoreapp2.2\Lesson 4.deps.json
+H:\!Repos\learn-to-code-streams\Lesson 4\bin\Debug\netcoreapp2.2\Lesson 4.runtimeconfig.json
+H:\!Repos\learn-to-code-streams\Lesson 4\bin\Debug\netcoreapp2.2\Lesson 4.runtimeconfig.dev.json
+H:\!Repos\learn-to-code-streams\Lesson 4\bin\Debug\netcoreapp2.2\Lesson 4.dll
+H:\!Repos\learn-to-code-streams\Lesson 4\bin\Debug\netcoreapp2.2\Lesson 4.pdb
+H:\!Repos\learn-to-code-streams\Lesson 4\bin\Debug\netcoreapp2.2\Lesson 4.Views.dll
+H:\!Repos\learn-to-code-streams\Lesson 4\bin\Debug\netcoreapp2.2\Lesson 4.Views.pdb
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Lesson 4.csprojAssemblyReference.cache
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Lesson 4.csproj.CoreCompileInputs.cache
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Lesson 4.RazorAssemblyInfo.cache
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Lesson 4.RazorAssemblyInfo.cs
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Lesson 4.AssemblyInfoInputs.cache
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Lesson 4.AssemblyInfo.cs
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Lesson 4.TagHelpers.input.cache
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Lesson 4.TagHelpers.output.cache
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Lesson 4.RazorCoreGenerate.cache
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Lesson 4.RazorTargetAssemblyInfo.cache
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Lesson 4.RazorTargetAssemblyInfo.cs
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Lesson 4.Views.pdb
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Lesson 4.dll
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Lesson 4.pdb
+H:\!Repos\learn-to-code-streams\Lesson 4\obj\Debug\netcoreapp2.2\Lesson 4.csproj.CopyComplete
